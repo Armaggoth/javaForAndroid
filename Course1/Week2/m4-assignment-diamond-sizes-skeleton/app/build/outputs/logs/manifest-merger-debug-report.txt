@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/cdelgado/OneDrive/AndroidWithJavaCoursera/Course1/Week2/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:2:1-20:12
-INJECTED from /Users/cdelgado/OneDrive/AndroidWithJavaCoursera/Course1/Week2/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:2:1-20:12
-INJECTED from /Users/cdelgado/OneDrive/AndroidWithJavaCoursera/Course1/Week2/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:2:1-20:12
-INJECTED from /Users/cdelgado/OneDrive/AndroidWithJavaCoursera/Course1/Week2/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:2:1-20:12
+ADDED from /Users/cdelgado/source/repos/MyRepos/javaForAndroid/Course1/Week2/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /Users/cdelgado/source/repos/MyRepos/javaForAndroid/Course1/Week2/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /Users/cdelgado/source/repos/MyRepos/javaForAndroid/Course1/Week2/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /Users/cdelgado/source/repos/MyRepos/javaForAndroid/Course1/Week2/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:2:1-20:12
 MERGED from [com.google.android.material:material:1.1.0-alpha02] /Users/cdelgado/.gradle/caches/transforms-2/files-2.1/cc4de4010ebfcfe99ef5e7b9309c7d3c/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat:1.1.0-alpha01] /Users/cdelgado/.gradle/caches/transforms-2/files-2.1/38399019ffe7bc4c26ea81a55c9d8c9f/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.fragment:fragment:1.1.0-alpha02] /Users/cdelgado/.gradle/caches/transforms-2/files-2.1/cec4f2eac85e560d8f68688bf4ecf661/AndroidManifest.xml:17:1-22:12
@@ -35,25 +35,25 @@ MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/cdelgado/.gradl
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/cdelgado/.gradle/caches/transforms-2/files-2.1/fa30d5e881afe77f196180d05fd37813/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/cdelgado/.gradle/caches/transforms-2/files-2.1/20069f9537c93cc8e624f67d4dbca495/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/cdelgado/.gradle/caches/transforms-2/files-2.1/d8ad7a921c541487363af8d95a256b56/AndroidManifest.xml:17:1-22:12
-INJECTED from /Users/cdelgado/OneDrive/AndroidWithJavaCoursera/Course1/Week2/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:2:1-20:12
-INJECTED from /Users/cdelgado/OneDrive/AndroidWithJavaCoursera/Course1/Week2/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:2:1-20:12
-INJECTED from /Users/cdelgado/OneDrive/AndroidWithJavaCoursera/Course1/Week2/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /Users/cdelgado/source/repos/MyRepos/javaForAndroid/Course1/Week2/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /Users/cdelgado/source/repos/MyRepos/javaForAndroid/Course1/Week2/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /Users/cdelgado/source/repos/MyRepos/javaForAndroid/Course1/Week2/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:2:1-20:12
 	package
-		ADDED from /Users/cdelgado/OneDrive/AndroidWithJavaCoursera/Course1/Week2/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:3:5-47
-		INJECTED from /Users/cdelgado/OneDrive/AndroidWithJavaCoursera/Course1/Week2/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/cdelgado/OneDrive/AndroidWithJavaCoursera/Course1/Week2/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml
+		ADDED from /Users/cdelgado/source/repos/MyRepos/javaForAndroid/Course1/Week2/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:3:5-47
+		INJECTED from /Users/cdelgado/source/repos/MyRepos/javaForAndroid/Course1/Week2/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/cdelgado/source/repos/MyRepos/javaForAndroid/Course1/Week2/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/cdelgado/OneDrive/AndroidWithJavaCoursera/Course1/Week2/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml
-		ADDED from /Users/cdelgado/OneDrive/AndroidWithJavaCoursera/Course1/Week2/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:2:1-20:12
-		INJECTED from /Users/cdelgado/OneDrive/AndroidWithJavaCoursera/Course1/Week2/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/cdelgado/source/repos/MyRepos/javaForAndroid/Course1/Week2/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml
+		ADDED from /Users/cdelgado/source/repos/MyRepos/javaForAndroid/Course1/Week2/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:2:1-20:12
+		INJECTED from /Users/cdelgado/source/repos/MyRepos/javaForAndroid/Course1/Week2/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Users/cdelgado/OneDrive/AndroidWithJavaCoursera/Course1/Week2/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml
-		ADDED from /Users/cdelgado/OneDrive/AndroidWithJavaCoursera/Course1/Week2/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:2:1-20:12
-		INJECTED from /Users/cdelgado/OneDrive/AndroidWithJavaCoursera/Course1/Week2/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/cdelgado/source/repos/MyRepos/javaForAndroid/Course1/Week2/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml
+		ADDED from /Users/cdelgado/source/repos/MyRepos/javaForAndroid/Course1/Week2/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:2:1-20:12
+		INJECTED from /Users/cdelgado/source/repos/MyRepos/javaForAndroid/Course1/Week2/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/cdelgado/OneDrive/AndroidWithJavaCoursera/Course1/Week2/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /Users/cdelgado/source/repos/MyRepos/javaForAndroid/Course1/Week2/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /Users/cdelgado/OneDrive/AndroidWithJavaCoursera/Course1/Week2/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:5:5-18:19
+ADDED from /Users/cdelgado/source/repos/MyRepos/javaForAndroid/Course1/Week2/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:5:5-18:19
 MERGED from [com.google.android.material:material:1.1.0-alpha02] /Users/cdelgado/.gradle/caches/transforms-2/files-2.1/cc4de4010ebfcfe99ef5e7b9309c7d3c/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.1.0-alpha02] /Users/cdelgado/.gradle/caches/transforms-2/files-2.1/cc4de4010ebfcfe99ef5e7b9309c7d3c/AndroidManifest.xml:22:5-20
 MERGED from [androidx.core:core:1.1.0-alpha01] /Users/cdelgado/.gradle/caches/transforms-2/files-2.1/0a21958391575b922f68698bc343b18e/AndroidManifest.xml:22:5-89
@@ -63,33 +63,33 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha01] /Us
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.1.0-alpha01] /Users/cdelgado/.gradle/caches/transforms-2/files-2.1/0a21958391575b922f68698bc343b18e/AndroidManifest.xml:22:18-86
 	android:supportsRtl
-		ADDED from /Users/cdelgado/OneDrive/AndroidWithJavaCoursera/Course1/Week2/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:9:9-35
+		ADDED from /Users/cdelgado/source/repos/MyRepos/javaForAndroid/Course1/Week2/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:9:9-35
 	android:label
-		ADDED from /Users/cdelgado/OneDrive/AndroidWithJavaCoursera/Course1/Week2/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:8:9-41
+		ADDED from /Users/cdelgado/source/repos/MyRepos/javaForAndroid/Course1/Week2/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:8:9-41
 	android:icon
-		ADDED from /Users/cdelgado/OneDrive/AndroidWithJavaCoursera/Course1/Week2/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:7:9-43
+		ADDED from /Users/cdelgado/source/repos/MyRepos/javaForAndroid/Course1/Week2/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:7:9-43
 	android:allowBackup
-		ADDED from /Users/cdelgado/OneDrive/AndroidWithJavaCoursera/Course1/Week2/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:6:9-35
+		ADDED from /Users/cdelgado/source/repos/MyRepos/javaForAndroid/Course1/Week2/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from /Users/cdelgado/OneDrive/AndroidWithJavaCoursera/Course1/Week2/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:10:9-40
+		ADDED from /Users/cdelgado/source/repos/MyRepos/javaForAndroid/Course1/Week2/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:10:9-40
 activity#mooc.vandy.java4android.diamonds.ui.MainActivity
-ADDED from /Users/cdelgado/OneDrive/AndroidWithJavaCoursera/Course1/Week2/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:11:9-17:20
+ADDED from /Users/cdelgado/source/repos/MyRepos/javaForAndroid/Course1/Week2/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:11:9-17:20
 	android:name
-		ADDED from /Users/cdelgado/OneDrive/AndroidWithJavaCoursera/Course1/Week2/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:11:19-82
+		ADDED from /Users/cdelgado/source/repos/MyRepos/javaForAndroid/Course1/Week2/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:11:19-82
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/cdelgado/OneDrive/AndroidWithJavaCoursera/Course1/Week2/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:12:13-16:29
+ADDED from /Users/cdelgado/source/repos/MyRepos/javaForAndroid/Course1/Week2/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:12:13-16:29
 action#android.intent.action.MAIN
-ADDED from /Users/cdelgado/OneDrive/AndroidWithJavaCoursera/Course1/Week2/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:13:17-69
+ADDED from /Users/cdelgado/source/repos/MyRepos/javaForAndroid/Course1/Week2/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:13:17-69
 	android:name
-		ADDED from /Users/cdelgado/OneDrive/AndroidWithJavaCoursera/Course1/Week2/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:13:25-66
+		ADDED from /Users/cdelgado/source/repos/MyRepos/javaForAndroid/Course1/Week2/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:13:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/cdelgado/OneDrive/AndroidWithJavaCoursera/Course1/Week2/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:15:17-77
+ADDED from /Users/cdelgado/source/repos/MyRepos/javaForAndroid/Course1/Week2/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:15:17-77
 	android:name
-		ADDED from /Users/cdelgado/OneDrive/AndroidWithJavaCoursera/Course1/Week2/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:15:27-74
+		ADDED from /Users/cdelgado/source/repos/MyRepos/javaForAndroid/Course1/Week2/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:15:27-74
 uses-sdk
-INJECTED from /Users/cdelgado/OneDrive/AndroidWithJavaCoursera/Course1/Week2/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/cdelgado/OneDrive/AndroidWithJavaCoursera/Course1/Week2/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml
-INJECTED from /Users/cdelgado/OneDrive/AndroidWithJavaCoursera/Course1/Week2/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml
+INJECTED from /Users/cdelgado/source/repos/MyRepos/javaForAndroid/Course1/Week2/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/cdelgado/source/repos/MyRepos/javaForAndroid/Course1/Week2/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml
+INJECTED from /Users/cdelgado/source/repos/MyRepos/javaForAndroid/Course1/Week2/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml
 MERGED from [com.google.android.material:material:1.1.0-alpha02] /Users/cdelgado/.gradle/caches/transforms-2/files-2.1/cc4de4010ebfcfe99ef5e7b9309c7d3c/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.material:material:1.1.0-alpha02] /Users/cdelgado/.gradle/caches/transforms-2/files-2.1/cc4de4010ebfcfe99ef5e7b9309c7d3c/AndroidManifest.xml:20:5-44
 MERGED from [androidx.appcompat:appcompat:1.1.0-alpha01] /Users/cdelgado/.gradle/caches/transforms-2/files-2.1/38399019ffe7bc4c26ea81a55c9d8c9f/AndroidManifest.xml:20:5-44
@@ -152,13 +152,13 @@ MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/cdelgado/.gradle/cach
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/cdelgado/.gradle/caches/transforms-2/files-2.1/20069f9537c93cc8e624f67d4dbca495/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/cdelgado/.gradle/caches/transforms-2/files-2.1/d8ad7a921c541487363af8d95a256b56/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/cdelgado/.gradle/caches/transforms-2/files-2.1/d8ad7a921c541487363af8d95a256b56/AndroidManifest.xml:20:5-44
-INJECTED from /Users/cdelgado/OneDrive/AndroidWithJavaCoursera/Course1/Week2/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml
-INJECTED from /Users/cdelgado/OneDrive/AndroidWithJavaCoursera/Course1/Week2/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml
+INJECTED from /Users/cdelgado/source/repos/MyRepos/javaForAndroid/Course1/Week2/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml
+INJECTED from /Users/cdelgado/source/repos/MyRepos/javaForAndroid/Course1/Week2/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/cdelgado/OneDrive/AndroidWithJavaCoursera/Course1/Week2/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml
-		ADDED from /Users/cdelgado/OneDrive/AndroidWithJavaCoursera/Course1/Week2/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/cdelgado/OneDrive/AndroidWithJavaCoursera/Course1/Week2/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/cdelgado/source/repos/MyRepos/javaForAndroid/Course1/Week2/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml
+		ADDED from /Users/cdelgado/source/repos/MyRepos/javaForAndroid/Course1/Week2/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/cdelgado/source/repos/MyRepos/javaForAndroid/Course1/Week2/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/cdelgado/OneDrive/AndroidWithJavaCoursera/Course1/Week2/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml
-		ADDED from /Users/cdelgado/OneDrive/AndroidWithJavaCoursera/Course1/Week2/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/cdelgado/OneDrive/AndroidWithJavaCoursera/Course1/Week2/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/cdelgado/source/repos/MyRepos/javaForAndroid/Course1/Week2/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml
+		ADDED from /Users/cdelgado/source/repos/MyRepos/javaForAndroid/Course1/Week2/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/cdelgado/source/repos/MyRepos/javaForAndroid/Course1/Week2/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml

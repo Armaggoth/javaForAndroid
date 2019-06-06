@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/cdelgado/OneDrive/AndroidWithJavaCoursera/Course1/Week2/m4-assignment-diamond-sizes-skeleton/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-or/values-or.xml",
+            "outputFile": "/Users/cdelgado/source/repos/MyRepos/javaForAndroid/Course1/Week2/m4-assignment-diamond-sizes-skeleton/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-or/values-or.xml",
             "map": [
                 {
                     "source": "/Users/cdelgado/.gradle/caches/transforms-2/files-2.1/38399019ffe7bc4c26ea81a55c9d8c9f/res/values-or/values-or.xml",

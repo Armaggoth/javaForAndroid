@@ -52,21 +52,16 @@ public class Logic
     }
 
     public void printHorizontalCanvasLine(int size) {
-        int totalSize =  size * 2 + 2;
-        for (int i = 1; i <= totalSize; i++) {
-            if (i == 1 || i == totalSize) {
-                mOut.print("+");
-            } else {
-                mOut.print("-");
-            }
-        }
-        mOut.println();
+        int totalSize = size * 2;
+        mOut.print("+");
+        printCharacters('-', totalSize);
+        mOut.println("+");
     }
 
-    public void drawDiamond(int size){
+    public void drawDiamond(int size) {
         int totalVerticalSize = (size * 2) - 1;
 
-        for (int currentLine = 1; currentLine <= totalVerticalSize; currentLine++){
+        for (int currentLine = 1; currentLine <= totalVerticalSize; currentLine++) {
             mOut.print("|");
             printSpacesForLine(size, currentLine);
             drawDiamondLine(size, currentLine);
@@ -75,12 +70,12 @@ public class Logic
         }
     }
 
-    public void drawDiamondLine(int size, int lineNumber){
+    public void drawDiamondLine(int size, int lineNumber) {
         char leftDelimiter, rightDelimiter, filling;
-        if (lineNumber == size){
+        if (lineNumber == size) {
             leftDelimiter = '<';
             rightDelimiter = '>';
-        }else if (lineNumber < size){
+        } else if (lineNumber < size) {
             leftDelimiter = '/';
             rightDelimiter = '\\';
         } else {
@@ -88,7 +83,7 @@ public class Logic
             rightDelimiter = '/';
         }
 
-        if (lineNumber%2 == 0){
+        if (lineNumber % 2 == 0) {
             filling = '-';
         } else {
             filling = '=';
@@ -96,18 +91,19 @@ public class Logic
 
         lineNumber = getVirtualLineNumber(size, lineNumber);
 
-        mOut.print(leftDelimiter);
         int totalFilling = (lineNumber * 2) - 2;
-        for(int i = 1; i <= totalFilling; i++){
-            mOut.print(filling);
-        }
-        mOut.print(rightDelimiter);
 
-
+        printDiamondLine(leftDelimiter, rightDelimiter, filling, totalFilling);
     }
 
-    public int getVirtualLineNumber(int size, int lineNumber){
-        if (lineNumber > size){
+    public void printDiamondLine(char leftDelimiter, char rightDelimiter, char filling, int totalFilling) {
+        mOut.print(leftDelimiter);
+        printCharacters(filling, totalFilling);
+        mOut.print(rightDelimiter);
+    }
+
+    public int getVirtualLineNumber(int size, int lineNumber) {
+        if (lineNumber > size) {
             lineNumber = size - (lineNumber - size);
         }
         return lineNumber;
@@ -117,10 +113,14 @@ public class Logic
         if (lineNumber == size) return;
         lineNumber = getVirtualLineNumber(size, lineNumber);
 
-        int numberOfSpaces = -(lineNumber-size);
+        int numberOfSpaces = -(lineNumber - size);
 
-        for (int i = 1; i <= numberOfSpaces; i++){
-            mOut.print(" ");
+        printCharacters(' ', numberOfSpaces);
+    }
+
+    public void printCharacters(char character, int amount) {
+        for (int i = 1; i <= amount; i++) {
+            mOut.print(character);
         }
     }
 }
