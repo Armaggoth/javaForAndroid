@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/cdelgado/OneDrive/AndroidWithJavaCoursera/Course1/_48a675765cc69d4bf6e01e7fe2db0b85_m3-assignment-shapes-skeleton/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xlarge-v4/values-xlarge-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/cdelgado/.gradle/caches/transforms-2/files-2.1/948d999d27af3d16801fe29d8f706330/res/values-xlarge/values-xlarge.xml",
+                    "from": {
+                        "startLines": "4,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "293,609,673,740,807,873,939",
+                        "endColumns": "76,63,66,66,65,65,54",
+                        "endOffsets": "365,668,735,802,868,934,989"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,132,196,263,330,396,462",
+                        "endColumns": "76,63,66,66,65,65,54",
+                        "endOffsets": "127,191,258,325,391,457,512"
+                    }
+                }
+            ]
+        }
+    ]
+}

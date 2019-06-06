@@ -1,0 +1,4 @@
+#Thu Jun 06 11:50:22 COT 2019
+base.0=/Users/cdelgado/OneDrive/AndroidWithJavaCoursera/Course1/Week2/m4-assignment-diamond-sizes-skeleton/app/build/intermediates/transforms/dexMerger/debug/2
+path.0=classes.dex
+renamed.0=classes.dex

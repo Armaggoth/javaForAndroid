@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/cdelgado/OneDrive/AndroidWithJavaCoursera/Course1/_48a675765cc69d4bf6e01e7fe2db0b85_m3-assignment-shapes-skeleton/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "/Users/cdelgado/.gradle/caches/transforms-2/files-2.1/948d999d27af3d16801fe29d8f706330/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "4,7,10,11,14,17,18",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "291,590,908,978,1285,1595,1666",
+                        "endColumns": "61,71,69,69,63,70,67",
+                        "endOffsets": "348,657,973,1043,1344,1661,1729"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,117,189,259,329,393,464",
+                        "endColumns": "61,71,69,69,63,70,67",
+                        "endOffsets": "112,184,254,324,388,459,527"
+                    }
+                },
+                {
+                    "source": "/Users/cdelgado/.gradle/caches/transforms-2/files-2.1/2f7dfdccb1bd1fe8db2bb267967d2e91/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "286",
+                        "endLines": "7",
+                        "endColumns": "12",
+                        "endOffsets": "463"
+                    },
+                    "to": {
+                        "startLines": "9",
+                        "startColumns": "4",
+                        "startOffsets": "532",
+                        "endLines": "12",
+                        "endColumns": "12",
+                        "endOffsets": "709"
+                    }
+                }
+            ]
+        }
+    ]
+}
